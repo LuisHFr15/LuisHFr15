@@ -123,11 +123,11 @@ Me chamo Luís Henrique Fernandes Ramires, tenho 21 anos e sou natural de São P
 />
 <img 
     align="left" 
-    alt="Debian" 
-    title="Debian"
+    alt="Fedora" 
+    title="Fedora"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" 
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"
 />
 
 <br/>
