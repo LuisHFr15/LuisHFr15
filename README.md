@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luís Henrique Fernandes Ramires
 
-**`Desenvolvedor Back-End / Data Science`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Luís Henrique Fernandes Ramires, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas de Informação na USP. Sou apaixonado por tecnologia e costumo estudar nas minhas horas vagas enquanto concilio faculdade e trabalho.
 
@@ -172,7 +172,7 @@ Me chamo Luís Henrique Fernandes Ramires, tenho 21 anos e sou natural de São P
       align="center" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishfr15&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api?username=luishfr15&show_icons=true&theme=transparent" 
   />
 
 </p>
