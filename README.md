@@ -1,29 +1,27 @@
-# 👩🏻‍💻 Luís Henrique Fernandes Ramires
+## 👩🏻‍💻 Luís Henrique Fernandes Ramires
 
 **`Desenvolvedor Back-End`**
+- 🎓 Estudante de Sistemas de Informação na Universidade de São Paulo (USP);
+- 🖋️ Estou me especializando em automação de processos com execuções manuais ou cloud;
+- 📝 Unindo novas ideias de projetos para futura implementação;
+- 🐈‍⬛ Meu gato me ajuda a relaxar enquanto programo.
 
-Me chamo Luís Henrique Fernandes Ramires, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas de Informação na USP. Sou apaixonado por tecnologia e costumo estudar nas minhas horas vagas enquanto concilio faculdade e trabalho.
+<br>
 
-<p align="left">
-    <a href="https://github.com/LuisHFr15?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LuisHFr15?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LuisHFr15?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LuisHFr15?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishfr15&layout=compact&hide_border=true&langs_count=10&theme=radical&custom_title=Minhas%20principais%20linguagens" 
+    height="165" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=luishfr15&show_icons=true&theme=radical&rank_icon=github&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" 
+    height="165" 
+  />
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -165,14 +163,21 @@ Me chamo Luís Henrique Fernandes Ramires, tenho 21 anos e sou natural de São P
 <br/>
 
 ---
-### 📊 Estatísticas
+### 📊 Principais projetos
 
-<p>
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=luishfr15&show_icons=true&theme=transparent" 
-  />
+<div align="center">
+  <a href="https://github.com/luishfr15/ep1_so_2025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luishfr15&repo=ep1_so_2025" />
+  </a>
+  <br>
+  <a href="https://github.com/luishfr15/ep2_so_2025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luishfr15&repo=ep2_so_2025" />
+  </a>
+  <br>
+  <a href="https://github.com/luishfr15/PokemonTamagotchi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luishfr15&repo=PokemonTamagotchi" />
+  </a>
+</div>
 
-</p>
+
+
