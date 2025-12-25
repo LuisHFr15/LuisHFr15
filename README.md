@@ -173,6 +173,10 @@
   <a href="https://github.com/luishfr15/PokemonTamagotchi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luishfr15&repo=PokemonTamagotchi" />
   </a>
+  <br>
+  <a href="https://github.com/luishfr15/ep1_redes_2025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luishfr15&repo=ep1_redes_2025" />
+  </a>
 </div>
 
 
