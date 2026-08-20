@@ -1,3 +1,25 @@
+<!--
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │  SOBRE OS CARDS DE ESTATÍSTICA E OS PINS DE PROJETO:                       │
+  │                                                                            │
+  │  A instância OFICIAL github-readme-stats.vercel.app foi PAUSADA pelo       │
+  │  mantenedor (retorna HTTP 503 DEPLOYMENT_PAUSED). Por isso stats,          │
+  │  top-langs E os pins quebram juntos — todos usam esse host.                │
+  │                                                                            │
+  │  Solução usada aqui: apontar para um MIRROR funcional (ghstats.vercel.app).│
+  │  Fallback: gh-readme-stats.vercel.app                                      │
+  │                                                                            │
+  │  SOLUÇÃO DEFINITIVA (recomendada — mirror também pode cair):               │
+  │  Faça deploy da SUA própria instância na Vercel (grátis):                  │
+  │   1. Fork de https://github.com/anuraghazra/github-readme-stats           │
+  │   2. Importe o fork na Vercel                                              │
+  │   3. Crie um GitHub Personal Access Token (classic, escopo public_repo)    │
+  │   4. Na Vercel, adicione env var PAT_1 = <seu token>                       │
+  │   5. Deploy → troque "ghstats.vercel.app" pelo SEU host abaixo.            │
+  │  Doc: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own│
+  └─────────────────────────────────────────────────────────────────────────┘
+-->
+
 <div align="center">
 
 # 👋 Olá, me chamo Luís Henrique Fernandes Ramires
@@ -19,6 +41,7 @@
 - 🎓 Estudante de **Sistemas de Informação** na **Universidade de São Paulo (USP)**;
 - ⚙️ Desenvolvedor **Back-End** com foco em **sistemas distribuídos**, **cloud** e **automação de processos**;
 - 🚀 Construindo microsserviços orientados a eventos (Kafka), APIs em .NET/Go e sistemas P2P;
+- 📊 Curtindo **Data Engineering & ML** — de telemetria de F1 a análises com pandas/scikit-learn;
 - 🐈‍⬛ Meu gato me ajuda a relaxar enquanto programo.
 
 ---
@@ -96,11 +119,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishfr15&layout=compact&hide_border=true&langs_count=10&theme=radical&custom_title=Minhas%20principais%20linguagens&cache_seconds=86400"
+    src="https://ghstats.vercel.app/api/top-langs/?username=luishfr15&layout=compact&hide_border=true&langs_count=10&theme=radical&custom_title=Minhas%20principais%20linguagens"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=luishfr15&show_icons=true&theme=radical&rank_icon=github&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+    src="https://ghstats.vercel.app/api?username=luishfr15&show_icons=true&theme=radical&rank_icon=github&hide_border=true&hide_title=true&include_all_commits=true&count_private=true"
     height="165"
   />
 </div>
@@ -114,7 +137,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=luishfr15&theme=redical&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=luishfr15&theme=radical&hide_border=true&area=true"
     width="95%"
   />
 </div>
@@ -125,13 +148,16 @@
 
 <div align="center">
   <a href="https://github.com/luishfr15/ep1_so_2025">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luishfr15&repo=ep1_so_2025&theme=radical&hide_border=true" />
+    <img src="https://ghstats.vercel.app/api/pin/?username=luishfr15&repo=ep1_so_2025&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/luishfr15/PokemonTamagotchi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luishfr15&repo=PokemonTamagotchi&theme=radical&hide_border=true" />
+    <img src="https://ghstats.vercel.app/api/pin/?username=luishfr15&repo=PokemonTamagotchi&theme=radical&hide_border=true" />
   </a>
   <br>
   <a href="https://github.com/luishfr15/ep1_redes_2025">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luishfr15&repo=ep1_redes_2025&theme=radical&hide_border=true" />
+    <img src="https://ghstats.vercel.app/api/pin/?username=luishfr15&repo=ep1_redes_2025&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/luishfr15/ep-dsid">
+    <img src="https://ghstats.vercel.app/api/pin/?username=luishfr15&repo=ep-dsid&theme=radical&hide_border=true" />
   </a>
 </div>
