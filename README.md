@@ -25,7 +25,7 @@
 # 👋 Olá, me chamo Luís Henrique Fernandes Ramires
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=520&lines=Desenvolvedor+Back-End;Distributed+Systems+%26+Cloud;Data+Engineering+%26+ML;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%40+USP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=520&lines=Back-End+Developer;Distributed+Systems+%26+Cloud;Data+Engineering;Information+Systems+at+USP" alt="Typing SVG" />
 </a>
 
 <p>
@@ -38,17 +38,16 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação** na **Universidade de São Paulo (USP)**;
-- ⚙️ Desenvolvedor **Back-End** com foco em **sistemas distribuídos**, **cloud** e **automação de processos**;
-- 🚀 Construindo microsserviços orientados a eventos (Kafka), APIs em .NET/Go e sistemas P2P;
-- 📊 Curtindo **Data Engineering & ML** — de telemetria de F1 a análises com pandas/scikit-learn;
-- 🐈‍⬛ Meu gato me ajuda a relaxar enquanto programo.
+- 🎓 Student of **Information Systems** at the **University of São Paulo (USP)**;
+- ⚙️ **Back-end** developer specialising in **distributed systems**, **cloud** and **process automation**;
+- 🚀 Building event-driven microservices (Kafka), APIs in .NET/Go and P2P systems;
+- 🐈‍⬛ My cat helps me relax whilst I’m coding.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Linguagens**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -87,7 +86,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Bancos & Mensageria (Distribuído)**
+**Databases & Messaging**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
@@ -106,7 +105,7 @@
 
 ---
 
-### ✏️ Em estudo
+### ✏️ Studying
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -115,7 +114,7 @@
 
 ---
 
-### 🚀 Principais projetos
+### 🚀 Main Projects
 
 <div align="center">
   <a href="https://github.com/luishfr15/ep1_so_2025">
