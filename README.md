@@ -115,35 +115,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img
-    src="https://ghstats.vercel.app/api/top-langs/?username=luishfr15&layout=compact&hide_border=true&langs_count=10&theme=radical&custom_title=Minhas%20principais%20linguagens"
-    height="165"
-  />
-  <img
-    src="https://ghstats.vercel.app/api?username=luishfr15&show_icons=true&theme=radical&rank_icon=github&hide_border=true&hide_title=true&include_all_commits=true&count_private=true"
-    height="165"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=luishfr15&theme=radical&hide_border=true"
-    height="165"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=luishfr15&theme=radical&hide_border=true&area=true"
-    width="95%"
-  />
-</div>
-
----
-
 ### 🚀 Principais projetos
 
 <div align="center">
