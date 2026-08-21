@@ -130,4 +130,8 @@
   <a href="https://github.com/luishfr15/ep-dsid">
     <img src="https://ghstats.vercel.app/api/pin/?username=luishfr15&repo=ep-dsid&theme=radical&hide_border=true" />
   </a>
+  <a href="[https://github.com/luishfr15/ep-dsid](https://github.com/LuisHFr15/delivery-tracker-distributed)">
+    <img src="https://ghstats.vercel.app/api/pin/?username=luishfr15&repo=delivery-tracker-distributed&theme=radical&hide_border=true" />
+  </a>
 </div>
+
